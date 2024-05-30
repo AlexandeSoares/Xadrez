@@ -1,0 +1,14 @@
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\bin\Debug\net8.0\xandrez-console.exe
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\bin\Debug\net8.0\xandrez-console.deps.json
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\bin\Debug\net8.0\xandrez-console.runtimeconfig.json
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\bin\Debug\net8.0\xandrez-console.dll
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\bin\Debug\net8.0\xandrez-console.pdb
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.AssemblyInfoInputs.cache
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.AssemblyInfo.cs
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.csproj.CoreCompileInputs.cache
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.dll
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\refint\xandrez-console.dll
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.pdb
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\xandrez-console.genruntimeconfig.cache
+C:\Users\Xandy\source\repos\xandrez-console\xandrez-console\obj\Debug\net8.0\ref\xandrez-console.dll
